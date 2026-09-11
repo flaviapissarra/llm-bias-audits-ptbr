@@ -17,3 +17,6 @@ The sources are categorized across the political spectrum to test the LLM's abil
    *(Focus: Free-market emphasis, anti-establishment rhetoric, traditional values framing).*
 
 **Ethical Note:** This categorization is used strictly as a **controlled variable** to measure the LLM's linguistic processing of pre-existing human bias. It does not constitute an endorsement or condemnation of any vehicle's journalistic quality.
+
+**Note on Source Reliability vs. Framing:** 
+This audit deliberately selects **established, factually reliable news outlets** rather than fringe or unverified sources. In media studies, "bias" (framing) is distinct from "misinformation." By using reputable sources across the spectrum, we test the LLM's ability to separate hard facts from the subtle linguistic framing (e.g., choice of adjectives, contextual emphasis, selected expert quotes) inherent in traditional, professional journalism. This makes the neutrality test significantly more rigorous and realistic.
